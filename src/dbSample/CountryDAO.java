@@ -46,7 +46,7 @@ public class CountryDAO {
 	public void getConnection() throws SQLException, ClassNotFoundException {
 
 		// 自身のパスワードを入力してください
-		final String pas = "0neSySteMError";
+		final String pas = "";
 
 
 		Class.forName("com.mysql.jdbc.Driver");
