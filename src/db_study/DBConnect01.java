@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class DBConnect01 {
 	public static void main(String[] args) {
-		final String pas = "0neSySteMError";
+		final String pas = "";
 		Connection con = null;
 		Statement stmt = null;
 		ResultSet rs = null;

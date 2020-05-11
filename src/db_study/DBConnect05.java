@@ -14,7 +14,7 @@ public class DBConnect05 {
 		ResultSet rs = null;
 
 		try {
-			final String pas = "0neSySteMError";
+			final String pas = "";
 
 			Class.forName("com.mysql.jdbc.Driver");
 
